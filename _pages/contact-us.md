@@ -7,7 +7,7 @@ permalink: /contact-us/
 ### We are interested in your feedback regarding this website and its contents.
 
 
-- If you have questions about the statistics, data sources, or metadata provided for our SDG indicators, please contact [{{site.email_contacts.questions}}](mailto:{{site.email_contacts.questions}})
+- If you have questions about the statistics, data sources, or metadata provided for our SDG indicators, please contact [{{geeo@ucf.edu}}](mailto:{{geeo@ucf.edu}})
 
 - If you have suggestions regarding additional site content or data sources, please contact [{{site.email_contacts.suggestions}}](mailto:{{site.email_contacts.suggestions}})
 
