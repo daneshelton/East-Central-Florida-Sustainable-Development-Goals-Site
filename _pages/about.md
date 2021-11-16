@@ -5,6 +5,8 @@ permalink: /about/
 layout: page
 ---
 
+The 17 Sustainable Development Goals were adopted by all UN Member States in 2015, as part of the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
+
 The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/) (SDGs) are a universal call to action to:
 
   * end poverty
@@ -12,8 +14,6 @@ The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sus
   * protect the planet
   
   * improve the lives and prospects of everyone, everywhere
-
-The 17 Goals were adopted by all UN Member States in 2015, as part of the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
 
 This website is for disseminating SDG indicator data for the East Central Florida Region. It is developed by the UCF Center for Global Economic and Environmental Opportunity (GEEO) in collaboration with the East Central Florida Regional Planning Council.
 
