@@ -37,7 +37,7 @@ exclude:
   - README.md
   - LICENSE
 
-# Configure front page
+# Configure the front page
 create_pages: true
 create_pages:
   - filename: ''
@@ -60,3 +60,11 @@ create_pages:
     folder: /search
     layout: search
     title: ''
+
+# Configure the goals page
+goals_page:
+  title: City of Orlando Data for Sustainable Development Goal Indicators
+  description: Click on each goal for City of Orlando statistics for Sustainable Development Goal global indicators.
+  
+create_goals:
+  layout: goal-by-target
