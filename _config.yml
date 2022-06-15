@@ -65,6 +65,3 @@ create_pages:
 goals_page:
   title: City of Orlando Data for Sustainable Development Goal Indicators
   description: Click on each goal for City of Orlando statistics for Sustainable Development Goal global indicators.
-  
-create_goals:
-  layout: goal-by-target
