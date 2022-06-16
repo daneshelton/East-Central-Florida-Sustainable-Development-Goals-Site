@@ -118,8 +118,8 @@ frontpage_introduction_banner:
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
-  title: City of Orlando Data for Sustainable Development Goal Indicators
-  description: Click on each goal, or search, for City of Orlando statistics for Sustainable Development Goal global indicators.
+  title: Orlando Data for Sustainable Development Goal Indicators
+  description: Click on each goal, or search, for Orlando statistics for Sustainable Development Goal global indicators.
 graph_color_headline: '#004466'
 graph_color_headline_high_contrast: '#55a6e5'
 graph_color_set: accessible
