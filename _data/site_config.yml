@@ -207,13 +207,13 @@ metadata_tabs: []
 news:
   category_links: false
 non_global_metadata: indicator.national_metadata
-remote_data_prefix: https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Data/
+remote_data_prefix: 'https://geeosdgs.github.io/East-Central-Florida-Sustainable-Development-Goals-Data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
   disaggregation_tabs: false
-repository_url_data: https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Data
-repository_url_site: https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Site
+repository_url_data: 'https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Data'
+repository_url_site: 'https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Site'
 search_index_boost: []
 search_index_extra_fields: []
 series_toggle: true
@@ -221,8 +221,7 @@ sharethis_property: ''
 site_config_form:
   enabled: true
   dropdowns: []
-  repository_link: >-
-    https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Site/tree/develop/_data
+  repository_link: 'https://github.com/GEEOSDGs/East-Central-Florida-Sustainable-Development-Goals-Site/tree/develop/_data'
   translation_link: ''
 validate_indicator_config: false
 validate_site_config: false
